@@ -1,0 +1,16 @@
+[
+{
+  "modid": "flashmod",
+  "name": "FlashMod",
+  "description": "A mod for the Flashblock's server.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Cel"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
